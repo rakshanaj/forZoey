@@ -3,6 +3,13 @@ body {
   background-color: #283149;
 }
 
+p {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 10px;
+}
+
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
@@ -24,25 +31,7 @@ footer {
   background-image: url("images/amma.jpeg");
 }
 
-.s {
 
-}
-
-.d {
-
-}
-
-.j {
-
-}
-
-.k {
-
-}
-
-.l {
-
-}
 
 .set {
   margin: 10% auto;
@@ -63,7 +52,7 @@ footer {
 }
 
 .drum {
-  display:block;
+  display:inline-block;
   outline: none;
   border: 10px solid #404B69;
   font-size: 2rem;
